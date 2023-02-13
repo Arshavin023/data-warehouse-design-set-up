@@ -25,4 +25,4 @@ The company will also like to create an analytics dashboard
 - Tables such as Grouping Sets, Roll Up, Cube and Materialized Views were then created for reports
 - Finally, a Dashboard was created with IBM Cognos
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://drive.google.com/file/d/1wWB769Jac9aju115Q0nk6-GHYv9wCrHZ/view?usp=share_link))
+![This is an image](https://drive.google.com/file/d/1wWB769Jac9aju115Q0nk6-GHYv9wCrHZ/view?usp=share_link)
