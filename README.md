@@ -25,4 +25,4 @@ The company will also like to create an analytics dashboard
 - Tables such as Grouping Sets, Roll Up, Cube and Materialized Views were then created for reports
 - Finally, a Dashboard was created with IBM Cognos
 
-![This is an image](https://drive.google.com/file/d/1wWB769Jac9aju115Q0nk6-GHYv9wCrHZ/view?usp=share_link)
+![softcartRelationships](https://user-images.githubusercontent.com/77532336/218350662-231a0727-c0b9-42db-a5e2-a3d13a0de7b1.jpg)
