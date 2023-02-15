@@ -24,6 +24,7 @@ The company will also like to create an analytics dashboard
 - Basic queries such as "SELECT COUNT(*) FROM TABLE_NAME" and "SELECT * FROM TABLE_NAME LIMIT 5" were run to affirm success of data imports into tables
 - Tables such as Grouping Sets, Roll Up, Cube and Materialized Views were then created for reports
 - Finally, a Dashboard was created with IBM Cognos
+
 [IBM_Cognos_Dashboard](https://dataplatform.cloud.ibm.com/dashboards/a2f9bd1d-9a21-49b3-b651-b4b1892ee154/view/641ecb6463b411c241e5c4e407ca7800783f775bb1bb870ad3d07b495a687497f33a1194c82a4c0cdd195665f5be410b9a)
 
 ![softcartRelationships](https://user-images.githubusercontent.com/77532336/218350662-231a0727-c0b9-42db-a5e2-a3d13a0de7b1.jpg)
