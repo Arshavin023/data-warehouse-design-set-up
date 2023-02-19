@@ -1,6 +1,6 @@
 # data-warehouse-design-set-up-reporting-and-dashboard-building
 
-## Scenario
+## `Scenario`
 In this project, a data engineer was hired by an ecommerce company named SoftCart.com . The company retails download only items like E-Books, Movies, Songs etc. The company has international presence and customers from all over the world. The company would like to create a data warehouse so that it can create reports like
 
 - total sales per year per country
@@ -9,7 +9,7 @@ In this project, a data engineer was hired by an ecommerce company named SoftCar
 - total sales per category per country
 
 
-# Steps
+## `Steps Taken:`
 - The existing sample data was studied to understand the data and deduce tables and columns to be created
 - PostgreSQL ERD Tool was used to create an ERD diagram showing tables and their relationships, and the schema was generated too
 - data in csv files were uploaded into the storage folder of pgAdmin
